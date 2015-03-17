@@ -23,4 +23,4 @@ Place this app in **owncloud/apps/**
 ## Examples
 Get all starred itmes of the user with the id john:
 
-**GET /index.php/apps/feedcentral/rss?userId=john&id=0&type=2**:
+**GET /index.php/apps/feedcentral/rss?userId=john&id=0&type=2**
