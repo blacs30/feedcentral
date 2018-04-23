@@ -15,8 +15,6 @@ namespace OCA\FeedCentral\AppInfo;
 use OCP\AppFramework\App;
 use OCA\News\AppInfo\Application as News;
 
-\OCA\FeedCentral\Util::authenticateUser();
-
 class Application extends App {
 
     /**

@@ -20,6 +20,8 @@ use OCA\News\Db\FeedType;
 
 use OCA\FeedCentral\Http\RssResponse;
 
+\OCA\FeedCentral\Util::authenticateUser();
+
 class RssController extends ApiController {
 
     private $service;
