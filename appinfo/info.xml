@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <info>
     <id>feedcentral</id>
-    <name>Feed Central (Developer Example, do not use in production!)</name>
-    <description>Prototype of a serverside plugin that serves an RSS feed for all users of the News app. </description>
+    <name>Feed Central</name>
+    <description>Serverside plugin that serves an RSS feed for all users of the News app. </description>
     <licence>AGPL</licence>
     <author>Bernhard Posselt</author>
-    <version>0.1.0</version>
+    <version>0.2.0</version>
     <namespace>FeedCentral</namespace>
     <category>other</category>
     <dependencies>

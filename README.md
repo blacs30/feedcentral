@@ -24,3 +24,8 @@ Place this app in **owncloud/apps/**
 Get all starred itmes of the user with the id john:
 
 **GET /index.php/apps/feedcentral/rss?userId=john&id=0&type=2**
+
+# Change
+Version 0.2.0
+* requires a user to authenticate now
+* Changed the title for the app
